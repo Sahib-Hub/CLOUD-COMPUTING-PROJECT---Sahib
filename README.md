@@ -166,6 +166,8 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 15: Data Protection
 
+![PIC 15](https://github.com/user-attachments/assets/2f65cf2e-98f9-4283-bd7c-ce26d261bfc3)
+
 ![Picture15-1](https://github.com/user-attachments/assets/028852d1-9b80-401a-a5cd-44c8c283488e)
 
 ![Picture15-2](https://github.com/user-attachments/assets/0a421bd0-3f4c-49c5-94fa-93682fa32c25)
@@ -185,6 +187,8 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 
 # Step 17: Data Monitoring
+
+![PIC 17](https://github.com/user-attachments/assets/cfbea5de-89b8-4def-a570-6a3632d62f0e)
 
 ![Picture17-1](https://github.com/user-attachments/assets/85185cf3-3c9a-41e9-a104-5ac398321760)
 
