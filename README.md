@@ -126,6 +126,8 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 11: Data Analysis
 
+![PIC 11](https://github.com/user-attachments/assets/84ae1595-083a-4ec8-9f7f-52a3b72ad270)
+
 ![Picture11-1](https://github.com/user-attachments/assets/cf37d158-909f-43bd-9740-d0258af5e71d)
 
 ![Picture11-2](https://github.com/user-attachments/assets/4f0226d3-27cc-4ea8-84b2-de4e49d2ade3)
@@ -135,6 +137,8 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 
 # Step 12: Data Visualization
+
+![PIC 12](https://github.com/user-attachments/assets/ea68760d-cf70-4dfc-ba78-1491467f2fb4)
 
 •	Tool: Used AWS QuickSight to create visualizations showing CGPA trends, academic standing distributions, and alerts.
 
