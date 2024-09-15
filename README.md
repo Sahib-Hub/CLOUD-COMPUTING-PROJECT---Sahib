@@ -54,9 +54,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 ![PIC 4](https://github.com/user-attachments/assets/4a26c17c-3c2f-4c0e-ac67-ab98ce9a8f2e)
 
-![Picture4-1](https://github.com/user-attachments/assets/6d013d96-6dce-4ada-9ac8-7b653e789a90)
+![Picture4-1](https://github.com/user-attachments/assets/3bcbdb66-ac19-41a7-aa72-fc19c3a698d4)
 
-![Picture4-2](https://github.com/user-attachments/assets/6d47c3e4-db52-4174-a687-76d8cfe42bdd)
+![Picture4-2](https://github.com/user-attachments/assets/67dd667d-8411-43f2-85cb-d256fdb855a4)
 
 •	Test Data: Generated simulated CGPA data to test the system’s functionality before using live student records.
 
@@ -66,7 +66,7 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 ![PIC 5](https://github.com/user-attachments/assets/a5ee21d7-7e40-4fd5-bc76-343bb4ee961b)
 
-![Picture5](https://github.com/user-attachments/assets/58081ef6-f72a-4e13-9787-69de5ed0194f)
+![Picture5](https://github.com/user-attachments/assets/0277b79d-4f9e-4a33-9e8a-bb61e8b5022d)
 
 •	Tool: Used AWS Lambda to automate the ingestion of CGPA data, ensuring real-time updates.
 
@@ -74,7 +74,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 6: Data Storage
 
-![Picture6](https://github.com/user-attachments/assets/bcd89a26-575f-4ef4-a192-44d91bbf43bf)
+![PIC 6](https://github.com/user-attachments/assets/625c9209-72c5-4a07-b24f-c4eee3d0d3f0)
+
+![Picture6](https://github.com/user-attachments/assets/16e9e686-de2d-40e6-a8b3-49905a83419e)
 
 •	Implementation: Stored data in AWS RDS, using relational databases to allow for easy access and querying.
 
@@ -82,11 +84,13 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 7: Data Pipeline Design
 
-![Picture7-1](https://github.com/user-attachments/assets/ee2bb43f-2586-414d-83a9-6ddbb0a3f027)
+![PIC 7](https://github.com/user-attachments/assets/150803d9-f401-4536-aac6-095b84330533)
 
-![Picture7-2](https://github.com/user-attachments/assets/d9d296c9-bd07-410f-b6b4-3ad3b64a262b)
+![Picture7-1](https://github.com/user-attachments/assets/44ddc453-d351-4456-9b19-a7cb9d1f08e6)
 
-![Picture7-3](https://github.com/user-attachments/assets/14c82ab8-e762-4c62-bfdb-2ecb76f2461f)
+![Picture7-2](https://github.com/user-attachments/assets/488cd264-0483-486f-a4ee-afcecdae5726)
+
+![Picture7-3](https://github.com/user-attachments/assets/9707eab3-cd7a-482b-908c-4eeba8199408)
 
 •	Design: Mapped out the entire data pipeline using draw.io, from ingestion to analysis and visualization.
 
@@ -94,7 +98,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 8: Data Cleaning
 
-![Picture8](https://github.com/user-attachments/assets/04659c43-a43a-417c-b712-5b698b78e601)
+![PIC 8](https://github.com/user-attachments/assets/ff2a8eda-abda-40ae-9b61-aa84cc4c0dd1)
+
+![Picture8](https://github.com/user-attachments/assets/6da3ef67-5458-45d4-b0f3-36f30445a2c0)
 
 •	Process: Cleaned the data to remove duplicates, handle missing values, and standardize CGPA formats.
 
@@ -102,15 +108,17 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 9: Data Structuring
 
+![PIC 9](https://github.com/user-attachments/assets/2e5ef07d-0f09-44d4-a978-0d5e9869dc71)
+
 •	Structure: Organized the cleaned data into tables, ready for analysis.
 
 
 
 # Step 10: Data Pipeline Implementation
 
-![Picture10-1](https://github.com/user-attachments/assets/6fa34715-2bb8-4f1f-b4cf-ba61bdbf0796)
+![Picture10-1](https://github.com/user-attachments/assets/1976e779-bff7-40f4-9228-accefc21d568)
 
-![Picture10-2](https://github.com/user-attachments/assets/3df77b6c-7279-4872-bcfb-18a8c8445e87)
+![Picture10-2](https://github.com/user-attachments/assets/44a5dd80-3e38-4a7d-b063-a2d7cb434dfd)
 
 •	Technology: Deployed the pipeline using AWS Lambda for event-driven automation and AWS Elastic Beanstalk for scalable applications.
 
@@ -118,9 +126,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 11: Data Analysis
 
-![Picture11-1](https://github.com/user-attachments/assets/dd03e510-a5f0-440e-9967-ccc2aaa57f04)
+![Picture11-1](https://github.com/user-attachments/assets/cf37d158-909f-43bd-9740-d0258af5e71d)
 
-![Picture11-2](https://github.com/user-attachments/assets/71f13967-92c2-447d-ae4f-b73e455f5b34)
+![Picture11-2](https://github.com/user-attachments/assets/4f0226d3-27cc-4ea8-84b2-de4e49d2ade3)
 
 •	Analysis Tool: Used AWS Athena to analyze CGPA records, identifying students at risk and calculating alert thresholds.
 
@@ -134,11 +142,11 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 13: Data Publishing
 
-![Picture13-1](https://github.com/user-attachments/assets/4e7fcb41-9ddd-4ec8-be3d-3fb4b302c946)
+![Picture13-1](https://github.com/user-attachments/assets/7dc0ba2d-dce0-4296-ba97-c721782a6dc4)
 
-![Picture13-2](https://github.com/user-attachments/assets/68a86529-0856-4064-ad99-e362a8e87dbf)
+![Picture13-2](https://github.com/user-attachments/assets/bab51347-c6f7-43ae-8a73-7ee2049530c0)
 
-![Picture13-3](https://github.com/user-attachments/assets/78c584c9-8505-4504-8d2c-aa857d847dd0)
+![Picture13-3](https://github.com/user-attachments/assets/38d98d34-b422-4a2e-b0fc-70ec42dc90ee)
 
 •	Method: Published the results on a web portal for faculty to access real-time academic standing reports.
 
@@ -146,7 +154,7 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 14: Data Enriching
 
-![Picture14](https://github.com/user-attachments/assets/5bc3e27d-3558-4266-8b52-b40796136a48)
+![Picture14](https://github.com/user-attachments/assets/7986eb87-b646-41be-a4e7-8729cf8db792)
 
 •	Process: Enhanced the dataset with additional information, like student attendance, to offer a more comprehensive academic standing analysis.
 
@@ -154,9 +162,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 15: Data Protection
 
-![Picture15-1](https://github.com/user-attachments/assets/45262ab2-90c9-4024-a5de-96c587c427e2)
+![Picture15-1](https://github.com/user-attachments/assets/028852d1-9b80-401a-a5cd-44c8c283488e)
 
-![Picture15-2](https://github.com/user-attachments/assets/f247a37e-2a0a-4069-aed2-9e25e3b877ab)
+![Picture15-2](https://github.com/user-attachments/assets/0a421bd0-3f4c-49c5-94fa-93682fa32c25)
 
 •	Security: Implemented security measures via AWS IAM to ensure that student data was protected and only accessible to authorized personnel.
 
@@ -164,9 +172,9 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 16: Data Governance
 
-![Picture16-1](https://github.com/user-attachments/assets/9fbaa28e-cedf-4375-a97e-80c3924e9fb2)
+![Picture16-1](https://github.com/user-attachments/assets/573b7016-e865-4697-a695-38d5e0497d12)
 
-![Picture16-2](https://github.com/user-attachments/assets/59c94b22-4e7c-46cd-b357-18d9191409df)
+![Picture16-2](https://github.com/user-attachments/assets/5ceb17a6-9d32-4ad0-a77b-b3fea5125c35)
 
 •	Governance: Established governance policies to maintain data integrity and compliance with institutional guidelines, using AWS CloudTrail for audit trails.
 
@@ -174,8 +182,8 @@ The project follows a step-by-step approach, leveraging AWS services and tools t
 
 # Step 17: Data Monitoring
 
-![Picture17-1](https://github.com/user-attachments/assets/4b807bdd-4c57-44cb-85b6-6e0e555dc3ac)
+![Picture17-1](https://github.com/user-attachments/assets/85185cf3-3c9a-41e9-a104-5ac398321760)
 
-![Picture17-2](https://github.com/user-attachments/assets/66982fd5-9a09-405b-a683-37b1d2360580)
+![Picture17-2](https://github.com/user-attachments/assets/4663b363-3910-4f81-91ad-6f77a30a44a9)
 
 •	Monitoring: Set up AWS CloudWatch to monitor the system's health and alert administrators if any issues arise.
